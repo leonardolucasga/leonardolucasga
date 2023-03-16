@@ -2,8 +2,6 @@
 
 -   📚   Estou estudando atualmente React, Java, JavaScript, MySQL, HTML e CSS3...
 - 	💻   Formando em Análise de Sistemas
--   ⚽   Ultimamente busco colaborar com a segurança nos estádios de futebol da minha cidade
-          atráves de um projeto que busca afastar pessoas violentas dos estádios. Trabalho este que está atrelado a conclusão do meu curso.
 -   🏠   Atualmente moro em Jaboatão dos Guarapes, Pernambuco.     
 -   💼   Busco também por oportunidades de Estágio/Treinamentos, afim de me especializar em <Strong> Desenvolvimento Web Back/Front<Strong/>
 -   📱    Telefone para contato é o +55(81)99768-3129.
