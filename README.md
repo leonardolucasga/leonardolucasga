@@ -7,12 +7,6 @@
 -   📱    Telefone para contato é o +55(81)99768-3129.
 -   📧    E-mail é o: leonardolucasga@hotmail.com
 
-<div align="center">
-  <a href="  <a href="https://github.com/leonardolucasga">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=leonardolucasga&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardolucasga&layout=compact&langs_count=7&theme=dark"/>
-</div>
-
 ## 
 <img width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">  
 <img width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">  
