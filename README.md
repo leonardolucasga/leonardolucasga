@@ -14,4 +14,4 @@
 <img width="3%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
 <img width="3%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
 <img width="3%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)](https://github.com/leonardolucasga/github-readme-stats)
+https://github-readme-stats.vercel.app/api/top-langs/?username=leonardolucasga&hide_progress=true)](https://github.com/leonardolucasga/github-readme-stats)
