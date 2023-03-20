@@ -9,7 +9,6 @@
   ##
   <div align="center">
   <a href="  <a href="https://github.com/leonardolucasga">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=leonardolucasga&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardolucasga&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
