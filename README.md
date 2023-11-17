@@ -1,6 +1,6 @@
 ### Olá!, sou Leonardo Alcântara! 😃😊
 
--   📚   Estou estudando atualmente JavaScript, Spring Boot, Java, MySQL, HTML e CSS3.
+-   📚   Estou estudando atualmente Java, Spring Boot, JavaScript, HTML5, CSS3. MySQL.
 - 	💻   Formando em Técnico de Análise de Sistemas
 -   🏠   Atualmente moro em Jaboatão dos Guarapes, Pernambuco.     
 -   💼   Busco também por oportunidades de Estágio/Treinamentos, afim de me especializar em <Strong> Desenvolvimento Web Back End<Strong/>
@@ -15,9 +15,9 @@
 ## 
 <img width="3%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
 <img width="3%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
+<img width="3%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"> 
 <img width="3%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">  
-<img width="3%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">  
-<img width="3%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">  
+<img width="3%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">   
 <img width="3%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
 
 
