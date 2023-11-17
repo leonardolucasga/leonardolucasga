@@ -1,9 +1,9 @@
 ### Olá!, sou Leonardo Alcântara! 😃😊
 
--   📚   Estou estudando atualmente React, Java, JavaScript, MySQL, HTML e CSS3.
+-   📚   Estou estudando atualmente JavaScript, Spring Boot, Java, MySQL, HTML e CSS3.
 - 	💻   Formando em Técnico de Análise de Sistemas
 -   🏠   Atualmente moro em Jaboatão dos Guarapes, Pernambuco.     
--   💼   Busco também por oportunidades de Estágio/Treinamentos, afim de me especializar em <Strong> Desenvolvimento Web Back/Front<Strong/>
+-   💼   Busco também por oportunidades de Estágio/Treinamentos, afim de me especializar em <Strong> Desenvolvimento Web Back End<Strong/>
 -   📱    Telefone para contato é o +55(81)99768-3129.
 -   📧    E-mail é o: leonardolucasga@hotmail.com
   ##
