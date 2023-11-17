@@ -1,4 +1,4 @@
-### Olá! eu sou Leonardo Alcântara! 😃😊
+### Olá! eu sou Leonardo Alcântara 😃😊
 
 -   📚   Estou estudando atualmente Java, Spring Boot, JavaScript, HTML5, CSS3 e MySQL.
 - 	💻   Formando em Técnico de Análise de Sistemas
