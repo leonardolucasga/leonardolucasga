@@ -1,7 +1,7 @@
 ### Olá! eu sou Leonardo Alcântara 😃😊
 
 -   📚   Estou estudando atualmente Java, Spring Boot, JavaScript, HTML5, CSS3 e MySQL.
-- 	💻   Formando em Técnico de Análise de Sistemas;
+- 	💻   Formado em Técnico de Análise de Sistemas;
 -   🏠   Atualmente moro em Jaboatão dos Guarapes, Pernambuco;    
 -   💼   Busco também por oportunidades de Estágio/Treinamentos, afim de me especializar em <Strong> Desenvolvimento Back End;<Strong/>
 -   📱    Telefone para contato é o +55(81)99768-3129;
